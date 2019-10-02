@@ -22,6 +22,23 @@
 	    <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
 	  </form>
 	</nav>
+
+<div class="container-fluid text-center text-success bg-white my-5">
+	<h1 class="display-4">Profile Github</h1>
+	<div class="container mt-3">
+		<div class="row mb-5">
+			<div class="col-6">
+				<div class="card">
+					<a href="https://github.com/PanjiYumadana">
+						<img src="https://avatars2.githubusercontent.com/u/55775282?s=460&v=4" class="card-img-top">
+					</a>
+					<div class="card-body">
+						<h5 class="card-tittle text-dark">Panji Yumadana Vernolyo</h5>
+					</div>
+				</div>
+			</div>
+			
+	</div>
 	
 </body>
 </html>
